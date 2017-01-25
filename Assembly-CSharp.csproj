@@ -6,7 +6,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{5B2F1D54-BDB6-250F-3669-0BAEA47BF2F5}</ProjectGuid>
+    <ProjectGuid>{248F8388-7EEE-2F8D-86BA-8231526EAAB9}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -54,9 +54,6 @@
      <Compile Include="Assets\Scripts\SoundRing.cs" />
      <Compile Include="Assets\Scripts\TimeCounter.cs" />
      <Compile Include="Assets\Scripts\Wanderer.cs" />
- <Reference Include="UnityEngine.Advertisements">
- <HintPath>D:/Program Files (x86)/Unity/Editor/Data/UnityExtensions/Unity/Advertisements/UnityEngine.Advertisements.dll</HintPath>
- </Reference>
  <Reference Include="UnityEngine.UI">
  <HintPath>D:/Program Files (x86)/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
@@ -71,9 +68,6 @@
  </Reference>
  <Reference Include="UnityEngine.HoloLens">
  <HintPath>D:/Program Files (x86)/Unity/Editor/Data/UnityExtensions/Unity/UnityHoloLens/RuntimeEditor/UnityEngine.HoloLens.dll</HintPath>
- </Reference>
- <Reference Include="UnityEngine.Purchasing">
- <HintPath>D:/Program Files (x86)/Unity/Editor/Data/UnityExtensions/Unity/UnityPurchasing/UnityEngine.Purchasing.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.VR">
  <HintPath>D:/Program Files (x86)/Unity/Editor/Data/UnityExtensions/Unity/UnityVR/RuntimeEditor/UnityEngine.VR.dll</HintPath>

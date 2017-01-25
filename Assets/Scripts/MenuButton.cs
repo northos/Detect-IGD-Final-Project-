@@ -1,4 +1,5 @@
 ﻿using UnityEngine;
+using UnityEngine.SceneManagement;
 using System.Collections;
 
 public class MenuButton : MonoBehaviour {
@@ -11,7 +12,7 @@ public class MenuButton : MonoBehaviour {
 		if (target == "Quit") {
 			Application.Quit ();
 		} else {
-			Application.LoadLevel (target);
+			SceneManager.LoadScene (target);
 		}
 	}
 
