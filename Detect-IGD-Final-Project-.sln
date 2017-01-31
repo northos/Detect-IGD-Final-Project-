@@ -1,7 +1,7 @@
+﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2008
-
-Project("{ACCC27DE-37CB-D3B3-C329-B389BEC0D6B9}") = "Detect-IGD-Final-Project-", "Assembly-CSharp.csproj", "{248F8388-7EEE-2F8D-86BA-8231526EAAB9}"
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Detect-IGD-Final-Project-", "Assembly-CSharp.csproj", "{248F8388-7EEE-2F8D-86BA-8231526EAAB9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
